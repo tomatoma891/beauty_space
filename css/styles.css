@@ -88,7 +88,10 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-
+ul{
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -10075,7 +10078,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/makeup.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/131A4382.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
